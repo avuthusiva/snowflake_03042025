@@ -31,5 +31,3 @@ show tasks;
 desc task GITHUB_TASK;
 
 alter task GITHUB_TASK suspend;
-
-remove @GITHUB_STAGE_PRAC;
