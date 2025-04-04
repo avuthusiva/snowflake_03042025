@@ -10,7 +10,7 @@ as
 begin
     alter git repository github_repo_04042025 fetch;
     copy files into @github_stage_prac
-    from @github_repo_04042025/branches/main;
+    from @github_repo_04042025/branches/main/;
     return 'completed'
 end;
 
