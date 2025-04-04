@@ -12,4 +12,12 @@ desc table user_data;
 
 show file formats;
 
-show integrations my_db.github_schema;
+show integrations ;
+
+select * from information_schema.tables where table_schema = 'GITHUB_SCHEMA';
+
+show api integrations;
+
+show git repositories;
+
+select * from information_schema.git_repositories;
