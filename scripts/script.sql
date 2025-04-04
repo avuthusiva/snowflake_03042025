@@ -11,3 +11,5 @@ select * from user_data;
 desc table user_data;
 
 show file formats;
+
+show integrations my_db.github_schema;

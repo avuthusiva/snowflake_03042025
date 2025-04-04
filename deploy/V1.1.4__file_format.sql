@@ -16,5 +16,3 @@ strip_outer_array = True;
 
 create or replace file format github_schema.parquet_format 
 type = parquet;
-
---adding commnet in the file
