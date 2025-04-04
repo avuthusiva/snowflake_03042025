@@ -12,3 +12,5 @@ desc table user_data;
 
 show file formats;
 
+drop file format json_format;
+
