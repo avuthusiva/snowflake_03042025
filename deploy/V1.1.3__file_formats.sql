@@ -14,5 +14,5 @@ create or replace file format json_format
 type = json
 strip_outer_array = True;
 
-create or replace file format json_format 
+create or replace file format parquet_format 
 type = parquet;
