@@ -22,7 +22,10 @@ show git repositories;
 
 select * from information_schema.git_repositories;
 
-alter git repository github_repo_04042025 fetch;
+show stages;
 
-copy files into @github_stage_prac
-    from @github_repo_04042025/branches/main;
+list @GITHUB_STAGE_PRAC;
+
+show tasks;
+
+desc task GITHUB_TASK;

@@ -1,0 +1,101 @@
+id,full_name,dob,job,sal,deptno
+0,David,2005-12-19,Animal technologist,5859193,100
+1,Julie,1987-08-25,Agricultural engineer,9108590,103
+2,Brad,1986-04-17,Academic librarian,5703240,101
+3,Jose,2009-01-25,Scientific laboratory technician,2588482,106
+4,John,1937-11-14,"Journalist, magazine",8208988,102
+5,Michael,1912-08-16,Tax adviser,3985254,101
+6,James,2009-01-04,"Surveyor, mining",3337617,102
+7,Todd,2000-04-13,Scientific laboratory technician,3534907,105
+8,Elizabeth,2011-06-15,"Teacher, primary school",7004838,101
+9,Barbara,1950-10-05,"Scientist, clinical (histocompatibility and immunogenetics)",8068730,108
+10,Christopher,1936-01-02,Field trials officer,1299337,108
+11,Christopher,1961-12-08,Commercial art gallery manager,3195764,107
+12,David,2005-06-15,Marketing executive,6319740,110
+13,Dana,1974-05-24,Learning mentor,3398924,105
+14,Trevor,1978-10-14,"Designer, furniture",2319458,105
+15,Jacqueline,1926-12-12,"Scientist, physiological",6252963,102
+16,Jessica,2010-03-17,Fast food restaurant manager,7003194,107
+17,Michael,1967-01-28,"Scientist, research (maths)",7156939,103
+18,Jessica,1917-04-23,"Administrator, arts",2317486,103
+19,Derrick,2005-07-27,"Scientist, clinical (histocompatibility and immunogenetics)",1631406,103
+20,Marcus,1988-12-04,Event organiser,3289885,110
+21,Philip,1955-09-14,"Production designer, theatre/television/film",521272,104
+22,Joshua,1977-07-19,"Copywriter, advertising",4983867,106
+23,Trevor,2007-01-13,Clothing/textile technologist,8397334,103
+24,Emily,1965-10-20,Sports administrator,5677283,102
+25,Karen,1958-12-08,Information officer,3272515,108
+26,Damon,2005-09-11,Research scientist (maths),6466798,109
+27,Scott,1917-01-10,"Lighting technician, broadcasting/film/video",2059572,109
+28,Kathryn,1993-03-14,"Teacher, special educational needs",1381158,109
+29,Grace,1935-02-15,Occupational psychologist,8769166,100
+30,Daniel,1934-04-05,Associate Professor,4962404,106
+31,Emma,1998-10-13,"Programmer, applications",8499907,103
+32,Larry,1934-04-18,Medical secretary,7455318,107
+33,Wendy,2000-03-30,IT technical support officer,1368421,102
+34,Jennifer,1961-06-28,Information officer,1346671,109
+35,Brenda,1965-08-22,Child psychotherapist,3020967,108
+36,Carolyn,1979-09-09,"Conservator, furniture",1736346,109
+37,Brooke,1945-05-06,Set designer,1613745,108
+38,John,1944-03-09,Purchasing manager,1555489,108
+39,Eric,1970-12-21,Mechanical engineer,9793940,104
+40,Debra,1970-08-11,Trade union research officer,9910926,110
+41,Alicia,1949-12-11,Chief Executive Officer,6735368,104
+42,Olivia,1971-02-16,"Biochemist, clinical",6491132,109
+43,Dustin,1911-08-25,Media planner,9348030,102
+44,Joyce,1963-04-25,Visual merchandiser,1814256,109
+45,Denise,1989-06-26,Lexicographer,6415230,102
+46,Kimberly,2013-09-30,Personal assistant,3612392,100
+47,David,1925-11-16,Barrister,3392166,103
+48,Dustin,1952-12-08,Actuary,7441340,110
+49,Brian,1925-02-14,"Production assistant, television",5762545,103
+50,Cynthia,1991-06-01,"Chemist, analytical",1877380,107
+51,Judith,1970-11-23,Geophysical data processor,4427849,101
+52,Natasha,1969-05-01,Textile designer,5661615,100
+53,Kimberly,1931-04-29,"Engineer, mining",8361146,105
+54,Grace,1930-03-15,Publishing copy,5875656,109
+55,Elizabeth,1951-10-28,"Conservation officer, nature",4887001,108
+56,Jesse,1949-08-20,"Copywriter, advertising",6451812,108
+57,Michael,2020-11-07,Television production assistant,1262081,108
+58,Kelli,1922-05-25,Travel agency manager,5570142,102
+59,Jeffrey,2000-11-27,Technical brewer,6804938,100
+60,Matthew,1919-03-02,Nutritional therapist,4346621,103
+61,Keith,2003-09-23,"Designer, furniture",9282013,110
+62,Aaron,2020-04-23,"Engineer, control and instrumentation",3793708,102
+63,Cindy,1934-05-17,Government social research officer,8742630,101
+64,Denise,2015-11-18,Aid worker,1526496,106
+65,Jesse,1942-10-21,Photographer,9832466,105
+66,Christine,1941-08-03,"Engineer, civil (contracting)",3207046,103
+67,Shari,1943-07-27,Health and safety inspector,783444,106
+68,Elizabeth,2004-06-01,"Scientist, research (maths)",5752815,108
+69,Lisa,1921-09-25,Risk analyst,4189453,103
+70,Allison,1956-08-03,Water engineer,7326130,110
+71,Aaron,1911-07-11,"Journalist, magazine",7806285,103
+72,Sheila,1976-10-30,"Psychologist, sport and exercise",3019552,109
+73,Hannah,1973-03-28,Fitness centre manager,8041287,108
+74,John,1989-06-14,Dance movement psychotherapist,4246708,108
+75,Anthony,1994-06-19,Claims inspector/assessor,9471526,103
+76,Elijah,1974-07-13,Water quality scientist,6364934,102
+77,Victoria,1967-06-23,Health physicist,3789540,107
+78,Jennifer,1951-06-22,Civil Service fast streamer,8463188,104
+79,Andrea,2021-11-19,"Production assistant, television",5648382,100
+80,Amy,1939-06-26,Glass blower/designer,5143973,110
+81,Roger,1943-07-05,Jewellery designer,3994689,101
+82,Bill,1924-02-14,Learning mentor,6290637,106
+83,Kevin,1912-03-27,"Engineer, site",9334256,106
+84,Richard,1946-11-06,"Engineer, maintenance (IT)",6351366,106
+85,Ariana,1955-01-20,Housing manager/officer,2555053,107
+86,Louis,2022-09-09,Learning mentor,6551365,104
+87,Jennifer,1949-09-30,Archaeologist,5021972,109
+88,Dustin,1920-01-04,"Accountant, chartered public finance",2104529,110
+89,Ariel,1979-11-17,Quarry manager,8999709,110
+90,James,1929-08-03,General practice doctor,8495198,101
+91,Jessica,1989-06-03,Agricultural consultant,1091876,110
+92,Donna,2022-10-22,"Teacher, secondary school",758427,109
+93,Andrea,2009-11-07,Technical sales engineer,5478852,104
+94,Gary,2016-05-17,Financial risk analyst,3288177,107
+95,Michelle,1964-08-15,"Geneticist, molecular",4842229,105
+96,Michelle,1996-09-12,Geophysical data processor,7902834,102
+97,Joshua,1954-05-10,Financial adviser,6225462,107
+98,Haley,1989-07-17,"Education officer, environmental",5101546,106
+99,Amanda,2019-04-22,Town planner,4950615,106
