@@ -11,7 +11,7 @@ $$
 begin
     alter git repository github_repo_04042025 fetch;
     copy files into @github_stage_prac
-    from @github_repo_04042025/branches/main/;
+    from @github_repo_04042025/branches/main/ pattren = '.*.csv.*';
     return 'completed';
 end;
 $$;
@@ -22,4 +22,4 @@ schedule = '1 minute'
 as
 call github_proc();
 
-alter task github_task resume;
+alter task github_task suspend;

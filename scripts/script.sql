@@ -29,3 +29,5 @@ list @GITHUB_STAGE_PRAC;
 show tasks;
 
 desc task GITHUB_TASK;
+
+remove @github_stage_prac;
