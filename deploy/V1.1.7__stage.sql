@@ -22,4 +22,4 @@ schedule = '1 minute'
 as
 call github_proc();
 
-alter task github_task suspend;
+alter task github_task resume;
