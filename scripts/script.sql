@@ -9,3 +9,6 @@ show tables;
 select * from user_data;
 
 desc table user_data;
+
+show file formats;
+

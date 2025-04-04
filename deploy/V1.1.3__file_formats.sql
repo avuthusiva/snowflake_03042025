@@ -7,7 +7,7 @@ field_optionally_enclosed_by = '\042';
 
 create or replace file format csv_parse_header
 type = csv
-parse_header = 1
+parse_header = True
 field_optionally_enclosed_by = '\042';
 
 create or replace file format json_format 
