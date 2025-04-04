@@ -11,7 +11,7 @@ $$
 begin
     alter git repository github_repo_04042025 fetch;
     copy files into @github_stage_prac
-    from @github_repo_04042025/branches/main/ pattren = '.*.csv.*';
+    from @github_repo_04042025/branches/main/ pattern = '.*.csv.*';
     return 'completed';
 end;
 $$;
